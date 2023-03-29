@@ -8,6 +8,6 @@ Se observan distintos patrones presentados por cada sector, con una notable infl
 
 Empleamos un sistema que compara el promedio con el desvio estandar del rendimiento de las acciones para decidir los objetivos en los que invertir.
 
-Este incluye un dashboard generado a partir de los datos mencionados. 
+Se incluye un dashboard generado a partir de los datos mencionados. 
 
 Link al archivo PowerBi con el dashboard: [Analisis S&P](https://mega.nz/file/ItI3EYbS#gJ_HNZxEpSDocXnVgVtiiEtSaMGKCHYHCDlazOr9URQ)
