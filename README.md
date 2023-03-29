@@ -6,7 +6,7 @@ Analizamos las series de tiempo generadas por el precio de cierre de las accione
 
 Se observan distintos patrones presentados por cada sector, con una notable influencia de la crisis del 2008 y la pandemia del 2020.
 
-Empleamos un sistema que compara el promedio con el desvio estandar del rendimiento de las acciones para decidir por los objetivos en los que invertir.
+Empleamos un sistema que compara el promedio con el desvio estandar del rendimiento de las acciones para decidir los objetivos en los que invertir.
 
 Este incluye un dashboard generado a partir de los datos mencionados. 
 
