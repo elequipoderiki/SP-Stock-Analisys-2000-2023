@@ -9,6 +9,4 @@ Empleamos un sistema que compara el rendimiento con el desvio estandar del rendi
 
 Este incluye un dashboard generado a partir de los datos mencionados. 
 
-Link al archivo PowerBi con el dashboard:
-
-[Analisis S&P](https://mega.nz/file/ItI3EYbS#gJ_HNZxEpSDocXnVgVtiiEtSaMGKCHYHCDlazOr9URQ)
+Link al archivo PowerBi con el dashboard: [Analisis S&P](https://mega.nz/file/ItI3EYbS#gJ_HNZxEpSDocXnVgVtiiEtSaMGKCHYHCDlazOr9URQ)
